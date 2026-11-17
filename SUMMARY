@@ -1,0 +1,1 @@
+通话记录 / 短信 增删工具箱：列表浏览、新增记录，按时间/号码/方向/关键字删除。LSPosed 模块在 telephony/contacts provider 进程内执行写入，另备直连与 root 通道。
